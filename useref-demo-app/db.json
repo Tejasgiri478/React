@@ -1,0 +1,30 @@
+{
+  "hotelData": [
+    {
+      "id": "7c2a",
+      "fname": "kingo",
+      "lname": "bronce",
+      "email": "cd@g.o",
+      "select": "Single Room",
+      "number": "2",
+      "date": "0002-02-04",
+      "time": "02:06",
+      "depdate": "0059-02-06",
+      "textarea": "rkfnkodo",
+      "pickup": "Yes"
+    },
+    {
+      "id": "3873",
+      "fname": "Tejasgiri",
+      "lname": "Meghnathi",
+      "email": "pojefo7906@fuasha.com",
+      "select": "Single Room",
+      "number": "26",
+      "date": "4100-12-06",
+      "time": "06:15",
+      "depdate": "5130-05-16",
+      "textarea": "fsva651",
+      "pickup": "Yes"
+    }
+  ]
+}

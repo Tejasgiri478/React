@@ -1,0 +1,51 @@
+body
+{
+margin: 0;
+padding: 0;
+
+}
+.loader-app
+{
+width: 50%;
+height: auto;
+margin: auto;     
+}
+.loader-app img 
+{
+width: 50%;
+height: auto;
+margin: auto;
+margin-top: 20%;
+    
+}
+
+/* iccream main stylesheet */
+#icecream-header
+{
+width: 100%;
+height: auto;
+margin: auto;
+    
+}
+.icecream-rounded
+{
+top: 0 !important;    
+margin-top: -100% !important;    
+}
+
+
+/* admin stylesheet */
+
+.admin-sidebar  li 
+{
+display: block;
+padding: 10px 5px !important;
+font-size: 18px;
+
+}
+.admin-sidebar a 
+{
+color: white;
+text-decoration: none;
+list-style-type: none;    
+}

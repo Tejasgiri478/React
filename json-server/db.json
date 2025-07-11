@@ -1,0 +1,34 @@
+{ 
+"InsuranceCompanies": {
+     "Top Insurance Companies":[ 
+        { "No": "1", "Name": "Berkshire Hathaway ( BRK.A)", "Market Capitalization": "$308 billion" } 
+    ],
+     "source": "investopedia.com", "Time":"Feb 2019" 
+     },
+"customers":{
+    "object1":[
+        {
+            "name" : "tejas",
+            "email":"t@gmail.com",
+            "id": 12
+        }
+        ,{
+            "name" : "tej",
+            "email":"t@gmail.com",
+            "id": 11
+        }
+    ],
+    "object2":[
+        {
+            "name" : "tejas",
+            "email":"t@gmail.com",
+            "id": 12
+        }
+        ,{
+            "name" : "tej",
+            "email":"t@gmail.com",
+            "id": 11
+        }
+    ]
+}
+}
